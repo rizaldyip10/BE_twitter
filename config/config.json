@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "sql6634227",
+    "password": "AirfwdLbkJ",
+    "database": "sql6634227",
+    "host": "sql6.freemysqlhosting.net",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "sql6634227",
+    "password": "AirfwdLbkJ",
+    "database": "sql6634227",
+    "host": "sql6.freemysqlhosting.net",
+    "dialect": "mysql"
+  }
+}
