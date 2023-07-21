@@ -33,7 +33,7 @@ module.exports = (sequelize, DataTypes) => {
     },
     isVerify : {
       type : DataTypes.STRING,
-      defaultValue : false
+      defaultValue : true
     },
     totalLogin : {
       type : DataTypes.INTEGER,
